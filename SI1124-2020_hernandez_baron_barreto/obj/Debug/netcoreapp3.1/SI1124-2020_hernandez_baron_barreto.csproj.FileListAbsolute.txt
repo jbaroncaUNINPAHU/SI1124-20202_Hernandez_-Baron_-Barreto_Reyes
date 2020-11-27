@@ -1,0 +1,13 @@
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.exe
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.deps.json
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.runtimeconfig.json
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.runtimeconfig.dev.json
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.dll
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\bin\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.pdb
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.csprojAssemblyReference.cache
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.AssemblyInfoInputs.cache
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.AssemblyInfo.cs
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.csproj.CoreCompileInputs.cache
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.dll
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.pdb
+C:\Users\jkevi\Dropbox\Mi PC (LAPTOP-GPEOQ0JB)\Desktop\Programacion\SI1124-2020_hernandez_baron_barreto\obj\Debug\netcoreapp3.1\SI1124-2020_hernandez_baron_barreto.genruntimeconfig.cache
